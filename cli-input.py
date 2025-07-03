@@ -4,7 +4,7 @@ args = sys.argv
 n = len(args)
 
 add = []
-lst = []  # avoid using 'list' as a variable name, it shadows built-in
+lst = []
 
 i = 1
 while i < n:
